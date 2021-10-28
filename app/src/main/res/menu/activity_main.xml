@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_password_reset"
+        android:title="@string/menu_password_reset" />
+    <item
+        android:id="@+id/menu_password_browse_Gallery"
+        android:title="@string/menu_browse_gallery" />
+    <item
+        android:id="@+id/menu_image_reset"
+        android:title="@string/menu_image_reset" />
+    <item
+        android:id="@+id/menu_delete_message_all"
+        android:title="@string/menu_delete_messages" />
+
+
+</menu>

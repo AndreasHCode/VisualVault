@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Visual Vault</string>
+    <string name="editText_hint">Enter your text here</string>
+    <string name="save">Save</string>
+    <string name="test">TestString</string>
+    <string name="toast_cant_save">Unable to save note."</string>
+    <string name="password_image">Visual Vault</string>
+    <string name="storing_data">Storring Data</string>
+    <string name="verifying_password">Verifying Password</string>
+    <string name="newItem">Create new item</string>
+    <string name="lock">Lock</string>
+    <string name="menu_password_reset">Reset Passpoints</string>
+    <string name="toast_delete">Deleting stored Passpoints</string>
+    <string name="image_hint">Give Hint</string>
+    <string name="list_email_message">Email Message</string>
+    <string-array name="list_view_options">
+        <item>Orange</item>
+        <item>Handy</item>
+        <item>Tee</item>
+    </string-array>
+    <string name="main_lock">Lock</string>
+    <string name="menu_reset_app">Reset App</string>
+    <string name="menu_app_reset_warning">Warning</string>
+    <string name="menu_app_reset_confirm">Yes</string>
+    <string name="menu_app_reset_info">This will reset background and delete stored entries!</string>
+    <string name="menu_app_reset_cancel">No</string>
+    <string name="image_hint_text">First point is at</string>
+    <string name="menu_browse_gallery">Browse Gallery</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_overwrite">Update</string>
+    <string name="button_save_shortString">Message too short</string>
+    <string name="main_update_identical">Cannot update with identical Message</string>
+    <string name="menu_image_reset">Reset Image</string>
+    <string name="image_instructions_title">Instructions</string>
+    <string name="image_instructions_text">Touch 4 Spots to set a Password.</string>
+    <string name="menu_delete_messages">Delete all messages</string>
+    <string name="menu_delete_messages_querry">Are you sure you want to delete all Messages?</string>
+</resources>
